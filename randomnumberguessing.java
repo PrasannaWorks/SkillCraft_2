@@ -29,3 +29,12 @@ public class RandomNumberGuessingGame {
         scanner.close();
     }
 }
+
+Input:
+Guess the number (between 1 and 100): 50
+
+Output:
+Your guess is too low.
+The generated number was: 78
+
+    
